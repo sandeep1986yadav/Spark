@@ -19,6 +19,7 @@ object simpleJason {
     println("==========Plain json Read=========")
     println
     println
+    println
 
     val plainjsondf = spark.read.format("json")
       .load("file:///C:/data/cm1.json")
