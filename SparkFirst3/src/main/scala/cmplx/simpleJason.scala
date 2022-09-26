@@ -29,6 +29,7 @@ object simpleJason {
     println("==========Multiline json Read=========")
     println
     println
+    println
 
     val multilinejsondf = spark.read.format("json")
       .option("multiline", "true")
