@@ -1,0 +1,5 @@
+id,name,body_temp_fh
+1,abc,97
+2,xyz,103.2
+3,pqr, 100
+4,mnp, 100.68

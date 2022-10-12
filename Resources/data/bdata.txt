@@ -1,0 +1,4 @@
+BigData,-Spark-Hive
+Spark-Hadoop-Hive
+Sqoop-Hive-Spark
+Sqoop-BD-Hive

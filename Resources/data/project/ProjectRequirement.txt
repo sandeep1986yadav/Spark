@@ -1,0 +1,33 @@
+1 Create a project in Eclipse and do the necessary configuration
+2 Add avro jar and Read sample avro data
+3 Read URL data and convert to Dataframe https://randomuser.me/api/0.8/?results=500
+4 Flatten the URL data (Dont select those Capital Letter Columns)
+5 Remove Numericals from username from flattened data
+6 Do the left broadcast Join
+
+	AVRODATA   ==== Broadcast Join(Numericals removed URL data) --username Column join
+
+7 Create two dataframes after the Join with filter Nationality null and Nationality Not Null
+
+		available Customers ---
+		not available customers
+
+
+8
+
+		For Unavailable dataframe replace all the column nulls to "NOT AVAILABLE" for string Columns
+		0 for Non String
+
+
+9
+
+
+	Take available customers ----- Attach current_date column at the Column
+	Table Nulls replaced Dataframe ----- Attach current_date column at the Column
+
+
+
+
+
+
+

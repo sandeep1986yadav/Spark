@@ -1,0 +1,11 @@
+{
+	"id": 1,
+	"TrainerName": "Zeyo",
+	"Technology": "BigData",
+	"address": {
+        "user":{
+            "temporary": "chennai",
+            "permanent": "hyderabad"
+        }
+	}
+}

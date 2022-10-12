@@ -1,0 +1,14 @@
+player,BallNo,Run
+rohit,0.1,0
+rohit,0.2,6
+rohit,0.3,1
+rahul,0.4,6
+rahul,0.5,0
+rahul,0.6,4
+rohit,1.1,6
+rohit,1.2,6
+rahul,1.6,6
+virat,10.6,4
+panth,11.1,0
+jadeja,49.5,6
+jadeja,49.6,6
